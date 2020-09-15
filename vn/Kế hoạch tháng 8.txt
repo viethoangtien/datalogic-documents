@@ -1,0 +1,28 @@
+(*) 27th ~ 31st July:
++) Make mock-up of 工程計画 (50%)
++) API integration of 工程計画 (50%)
+
+(*) 3rd ~ 7th August:
++) UI design new UI layout Kouji, Section screen of 工程計画 (100%)
++) Coding Layout of Kouji, Section screen (100%)
++) API integration Kouji, Section screen (100%)
++) 工程計画 testing + fix bug (50%)
+
+(*) 10th ~ 14th August:
++) UI design new UI layout Employee layout of 工程計画
++) Design UI design smartphone version (30%)
++) Coding Layout of Employee screen (100%)
++) API integration Employee screen (100%)
++) 工程計画 testing + fix bug (100%)
+
+(*) 17th ~ 21st August:
++) Design UI design smartphone version (70%)
++) Coding Layout of smartphone screen (40%)
++) API integration smartphone screen (40%)
++) smartphone testing + fix bug (40%)
+
+(*) 24th ~ 31st August:
++) Design UI design smartphone version (100%)
++) Coding Layout of smartphone screen (100%)
++) API integration smartphone screen (100%)
++) smartphone testing + fix bug (100%)
